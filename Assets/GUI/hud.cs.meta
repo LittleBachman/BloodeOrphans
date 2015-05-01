@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 08f775cab3fc35b448aa27a75e9aada6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player_profile: {fileID: 2800000, guid: 983e87168158f4342b1e2501fdbc97f9, type: 3}
+  - hot_keys: {fileID: 2800000, guid: 983e87168158f4342b1e2501fdbc97f9, type: 3}
+  - health1: {instanceID: 0}
+  - health2: {instanceID: 0}
+  - health3: {instanceID: 0}
+  - health4: {instanceID: 0}
+  - health5: {instanceID: 0}
+  - health6: {instanceID: 0}
+  - health7: {instanceID: 0}
+  - health8: {instanceID: 0}
+  - health9: {instanceID: 0}
+  - health10: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Unity Projects\Quadoperate\Assets\Games\Game3\game3_player_controller.cs">
+    <Files>
+      <File FileName="..\Unity Projects\Quadoperate\Assets\Games\Game3\game3_main.cs" Line="42" Column="41" />
+      <File FileName="..\Unity Projects\Quadoperate\Assets\Games\Game3\game3_player_controller.cs" Line="112" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

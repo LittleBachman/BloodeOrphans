@@ -1,0 +1,31 @@
+Gate
+Wombatman- We need a base of operations.
+Fe Man-This is the Bloode Mansion. This is our home.
+W - We are going to take it back from the Berman who took it from us. Send in the Rudimentry Blood Packets.
+
+Door
+F- Spread out and find Jarvis.
+
+Jarvis dialog 1
+J - Young masters, I see you have returned. Did you have a nice trip.
+w - Where is Alfred, you bucket of bolts?
+J - Alfred has sealed himself in the master study. as you well know the only way to enter is with the master key card.
+
+Tv audio
+I'm sick of these MF emus on this MF truck
+
+Jarvis 2 no key
+J - Hello young masters you haven't found the key yet it is somewhere around here
+
+Jarvis 2 with key
+
+J - I see you have found the key. Allow me to open the door for you.
+
+Alfred
+F - Found you Old Man.
+A - How did you guys enter this room?
+F - The door, duh.
+W - Did you think a hidden key card would stop us?
+W + F - We are taking back our house.
+A - What will you do?
+
